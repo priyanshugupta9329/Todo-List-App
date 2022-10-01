@@ -1,13 +1,13 @@
 
 # To-do List App
 
-### The project is based on a to-do list App. The project facilities you to note down all your important work and remove it when it's done.
+#### The project is based on a to-do list App. The project facilities you to note down all your important work and remove it when it's done.
 
 ## Technology used
 
-### Frontend :- HTML, CSS, Javascript
+#### Frontend :- HTML, CSS, Javascript
 
-### Backend :- Nodejs, Express(server), MongoDB(Database)
+#### Backend :- Nodejs, Express(server), MongoDB(Database)
 
 
 ## Installation
