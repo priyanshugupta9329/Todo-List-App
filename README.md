@@ -1,7 +1,7 @@
 
 # To-do List App
 
-### This app facilities user to keep the track of there daily activities.
+### The project is based on a to-do list App. The project facilities you to note down all your important work and remove it when it's done.
 
 ## Technology used
 
